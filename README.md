@@ -1,4 +1,10 @@
 ### Hi there 👋
+<a><img src='https://img.shields.io/static/v1?logo=github&label=Git&style=flat-square&color=brightgreen&message=Source%20code'><img/><a/>
+
+<a><img src='https://img.shields.io/static/v1?logo=twitter&label=Twitter&style=flat-square&color=1d9bf0&message=@overhangio'><img/><a/>
+
+<a><img src='https://img.shields.io/static/v1?logo=youtube&label=YouTube&style=flat-square&color=ff0000&message=@alex1779'><img/><a/>
+
 
 <!--
 **alex1779/alex1779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
