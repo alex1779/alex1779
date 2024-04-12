@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello! I am Alejandro from Rosario, Argentina. I am a full-stack developer eager to contribute my experience to remote teams.
+Hello! I am Alejandro from Rosario, Argentina. I am a Frontend Developer eager to contribute my experience to remote teams.
 
 I am a student of the Microverse program, where I honed my skills in various programming languages, frameworks and technologies. Excelling in remote collaborative environments, I have refined effective communication, teamwork, and remote work practices. I have earned a reputation for excelling under pressure, constantly demonstrating my prowess through weekly projects. I would like to work with projects that involve technologies like Django or React.
 
